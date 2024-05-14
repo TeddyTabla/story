@@ -1,0 +1,1 @@
+This page is made for chapter 3 test of Git.
